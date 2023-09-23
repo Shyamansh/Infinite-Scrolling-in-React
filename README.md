@@ -17,13 +17,13 @@ This React application demonstrates infinite scrolling to display a product cata
 
 1. Clone the repository:
 
-   ```bash
-   [git clone https://github.com/Shyamansh/Infinite-Scrolling-in-React]
+      ```bash
+      git clone https://github.com/Shyamansh/Infinite-Scrolling-in-React
 2. Install dependencies
-  ```bash
-  cd infinite-scrolling-catalog
-    npm install
-  ```
+     ```bash
+     cd infinite-scrolling-catalog
+       npm install
+     ```
 
 3. Open your web browser and access the application at http://localhost:3000.
 
