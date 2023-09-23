@@ -38,3 +38,6 @@ This React application demonstrates infinite scrolling to display a product cata
   
   Acknowledgments
   This project was created as part of an assignment and serves as an example of infinite scrolling in React.
+
+4.Hoste website link
+      https://flourishing-kashata-38e38d.netlify.app/
